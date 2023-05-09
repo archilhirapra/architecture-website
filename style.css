@@ -83,6 +83,10 @@ CSS STRUCTURE:
 /*--------------------------------------------------------------
 /** 1. VARIABLES
 --------------------------------------------------------------*/
+.center{
+  display: flex;
+  align-items: center;
+}
 :root {
     /* widths for rows and containers
      */
